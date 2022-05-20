@@ -10,6 +10,15 @@ If you've been holding off building macOS app because learning AppKit just seeme
 - Try to use as many built-int SwiftUI components as you can, extra points for combining some together.
 - Upload your code to a public GitHub repo and add it to this repo
          
+# Sample code
+
+Some apps you can look at for inspiration:
+
+- Dad Joke menubar app https://www.youtube.com/watch?v=CuMLpnjPr2Y by [Stewart Lynch](https://twitter.com/stewartLynch)
+- Cooldown, a very simple menubar app that runs a shortcut https://github.com/jordibruin/cooldown by [Jordi Bruin](https://twitter.com/jordibruin)
+- MotionScape, a useful macOS utility to test animations https://github.com/GetStream/motionscape-app by [Amos Gyamfi](https://www.twitter.com/amos_gyamifi) and [Stefan Blos](https://twitter.com/stefanjblos)
+- ControlRoom, which lets you control your simulator https://github.com/twostraws/ControlRoom by [Paul Hudson](https://www.twitter.com/twostraws)
+        
 # How to participate
 
 - Create a new public repo for your code
