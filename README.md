@@ -28,6 +28,5 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 
 | Link to Code  | Attendee Name    | Twitter                                   | Pro / Beginner |
 | ------------- |:----------------:| ------------------------------------------------:|---------:|
-| [Link to repo]()  | Your Name Here     | [@example]()    | Pro / Beginner |
-
+| [Code](https://github.com/kicsipixel/Anzen)  | Szabolcs Toth     | [@kicsipixel](https://twitter.com/kicsipixel)    | Beginner |
 
