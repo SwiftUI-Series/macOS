@@ -31,5 +31,6 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 | [Link to Code](https://github.com/kicsipixel/Anzen)  | Szabolcs Toth     | [@kicsipixel](https://twitter.com/kicsipixel)    | Beginner |
 | [Link to Code](https://github.com/sowenjub/PoCountess)  | Arnaud Joubay     | [@sowenjub](https://twitter.com/sowenjub)    | Beginner |
 | [Link to Code](https://github.com/diliedevs/SwiftUISeries/tree/main/macOS)  | Dionne Lie Sam Foek     | [@DionneLie](https://twitter.com/DionneLie)    | Beginner |
+| [Link to Code](https://github.com/coughski/swiftuiseries-macos)  | Kuba Szulaczkowski     | [@coughski](https://twitter.com/coughski)    | Beginner |
 
 
